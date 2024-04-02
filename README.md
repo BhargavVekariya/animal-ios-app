@@ -1,4 +1,4 @@
-# Africa
+# Animal App
 
 ## WHAT WILL YOU LEARN?
 
